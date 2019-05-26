@@ -14,4 +14,4 @@ Node.js를 이용해서 만든 Shop
  - [ ] Order Page
  - [ ] Login
  - [ ] Mongo DB
- - ....
+ - [ ] .... (프로젝트 진행하며 필요한 것들 추가)
