@@ -7,11 +7,11 @@ Node.js를 이용해서 만든 Shop
 ## 기능 (표시된 것들은 구현 성공)
  - [X] Shop 서버의 기본 틀.
  - [X] Add Product
- - [] Edit Product
- - [] Delete Product
- - [] MySQL DB
- - [] Cart Page
- - [] Order Page
- - [] Login
- - [] Mongo DB
+ - [ ] Edit Product
+ - [ ] Delete Product
+ - [ ] MySQL DB
+ - [ ] Cart Page
+ - [ ] Order Page
+ - [ ] Login
+ - [ ] Mongo DB
  - ....
